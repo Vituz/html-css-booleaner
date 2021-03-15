@@ -52,3 +52,20 @@ p{
     font-weight: 500;
 }
 
+table{
+    width: 100%;
+    font-size: 18px;
+    border-collapse: collapse;
+    table-layout: fixed;
+}
+
+th{
+    text-align: left;
+    color: honeydew;
+    background-color: rgb(47, 171, 248);
+    font-weight: 900;
+}
+
+tbody{
+    background-color: rgb(146, 206, 243);
+}
