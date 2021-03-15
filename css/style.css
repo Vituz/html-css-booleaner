@@ -3,10 +3,6 @@ body{
     width: 1100px;
 }
 
-.container{
-    
-}
-
 .sfondo-logo{
     max-height: 120px;  
     background-image: url("../img/pattern.png");
@@ -41,4 +37,12 @@ header h3{
 header h5{
     margin-top: 0;
     font-size: 15px;
+}
+
+main{
+    padding-left: 10px;
+}
+
+main h5{
+    margin: 0;
 }
